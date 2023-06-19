@@ -13,7 +13,7 @@
       <div class="container text-center mt-5">
         <div class="row">
             <div class="col">
-                <h2>Tentang Saya</h2>
+                <h2>About Me</h2>
             </div>
         </div>
         <div class="row justify-content-center">
