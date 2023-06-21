@@ -57,7 +57,7 @@
                         <div class="row">
                             <div class="col-md-6 d-grid">
                                 <a href="{{ route('barang.index') }}" class="btn btn-danger mt-3"><i
-                                        class="bi-arrow-left-circle me-2"></i> Cancel</a>
+                                        class="bi-arrow-left-circle me-2"></i> Batal</a>
                             </div>
                             <div class="col-md-6 d-grid">
                                 <button type="submit" class="btn btn-primary mt-3"><i class="bi bi-box-arrow-down"></i>
