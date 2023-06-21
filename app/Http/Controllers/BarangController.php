@@ -43,7 +43,11 @@ class BarangController extends Controller
     {
         $messages = [
             'required' => ':Attribute harus diisi.',
+<<<<<<< HEAD
             'numeric' => 'Isi :attribute harus angka'
+=======
+            'numeric' => 'Isi :attribute angka'
+>>>>>>> 24d2f37e5ee20c6578a05bec70b34cacd37b0eda
         ];
 
         $validator = Validator::make($request->all(), [
